@@ -1,6 +1,6 @@
 rm(list=objects())
 
-setwd("C:/Users/alex_/Fac/M1/M1/S2/Modélisation prédictive/Zone de Test")
+setwd("#Your_own_path")
 
 library(tidyverse)
 library(lubridate)
