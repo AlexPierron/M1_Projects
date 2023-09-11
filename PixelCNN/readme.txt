@@ -1,5 +1,5 @@
 
-Repository of our implementation of PixelCNN for binarized MNIST
+Repository of our implementation of PixelCNN for binarized MNIST done with Ambre Adjevi-Neglokpe.
 
 You will also find our full report about the two articles we studied.
 
